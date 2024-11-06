@@ -259,7 +259,7 @@ class EnhancedAlgorandXSSScanner:
 def main():
     algod_address = "http://localhost:4001"
     algod_token = "your_algod_token"
-    app_id = 123456
+    app_id = 1010
     
     # Using the enhanced scanner
     scanner = EnhancedAlgorandXSSScanner(algod_address, algod_token)
